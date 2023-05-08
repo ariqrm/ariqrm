@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://jrgarciadev.com" target="_blank">
-    <img width="40em" height="40em" src="https://lh3.googleusercontent.com/a/AGNmyxZT0FkHpSpqrs_78iQxe1nmEH23LUQcOBV46WbgLg=s288" style="border-radius:50%">
+    <img width="40em" height="40em" src="https://github.com/ariqrm/ariqrm/blob/main/ariqrm.svg" style="border-radius:50%">
   </a>
 </p
 
