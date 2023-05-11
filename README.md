@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://jrgarciadev.com" target="_blank">
+  <a href="https://github.com/ariqrm" target="_blank">
     <img width="40em" height="40em" src="https://github.com/ariqrm/ariqrm/blob/main/ariqrm.svg" style="border-radius:50%">
   </a>
 </p
