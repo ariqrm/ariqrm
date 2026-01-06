@@ -4,9 +4,9 @@
   </a>
 </p
 
-<h2> Welcome 👋 , I'm Muhammad Ari Qoiriman.</h2>
+<h2> Welcome 👋 , I'm Ari Qoiriman.</h2>
 
-I'm a software developer based in JavaScript, specializing in building exceptional websites and mobile applications, and everything in between.
+I'm a software developer based in JavaScript and TypeScript, specializing in building exceptional websites and mobile applications, and everything in between.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
