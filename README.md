@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/ariqrm" target="_blank">
-    <img width="40em" height="40em" src="https://github.com/ariqrm/ariqrm/blob/main/ariqrm.svg" style="border-radius:50%">
+    <img width="40em" height="40em" src="https://avatars.githubusercontent.com/u/30697269" style="border-radius:50%">
   </a>
 </p
 
