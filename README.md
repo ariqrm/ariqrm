@@ -39,12 +39,15 @@ I'm a JavaScript & TypeScript developer crafting seamless web and mobile experie
 - ⚙️ &nbsp;VCS: &nbsp;
   ![Git](https://img.shields.io/badge/-Git-0A1A2F?style=flat&logo=git&logoColor=F05032)
   ![GitHub](https://img.shields.io/badge/-GitHub-0A1A2F?style=flat&logo=github&logoColor=FFFFFF)
+  ![Bitbucket](https://img.shields.io/badge/-Bitbucket-0A1A2F?style=flat&logo=bitbucket&logoColor=4053D6)
 - 🔧 &nbsp;IDE's:&nbsp;
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0A1A2F?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![Android Studio](https://img.shields.io/badge/-Android%20Studio-0A1A2F?style=flat&logo=android-studio&logoColor=3DDC84)
 
 <br/>
 
+<!--   ![JIRA](https://img.shields.io/badge/-JIRA-0A1A2F?style=flat&logo=jira&logoColor=4053D6) -->
+<!--   ![Trello](https://img.shields.io/badge/-Trello-0A1A2F?style=flat&logo=Trello&logoColor=FFFFFF) -->
 <!-- <a href="https://github.com/ariqrm">
     <img width="40em" height="40em" src="https://lh3.googleusercontent.com/a/AGNmyxZT0FkHpSpqrs_78iQxe1nmEH23LUQcOBV46WbgLg=s288">
 </a> -->
