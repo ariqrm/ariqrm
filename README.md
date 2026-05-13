@@ -14,7 +14,8 @@ I'm a JavaScript & TypeScript developer crafting seamless web and mobile experie
   ![React Native](https://img.shields.io/badge/-React%20Native-0A1A2F?style=flat&logo=React&logoColor=00d8fd)
 - 🌐 &nbsp;Frontend:&nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-0A1A2F?style=flat&logo=html5&logoColor=E34F26)
-  ![CSS3](https://img.shields.io/badge/-CSS3-0A1A2F?style=flat&logo=css3&logoColor=1572B6)
+  ![Sass](https://img.shields.io/badge/-Sass-0A1A2F?style=flat&logo=sass&logoColor=cc6699)
+  ![CSS](https://img.shields.io/badge/-CSS-0A1A2F?style=flat&logo=css&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-0A1A2F?style=flat&logo=javascript&logoColor=F7DF1E)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0A1A2F?style=flat&logo=typescript&logoColor=3178C6)
   ![React](https://img.shields.io/badge/-React-0A1A2F?style=flat&logo=react&logoColor=61DAFB)
